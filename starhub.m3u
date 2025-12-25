@@ -87,11 +87,81 @@ https://ucdn.starhubgo.com/bpk-tv/ZeeTV/output/manifest.mpd
 https://ucdn.starhubgo.com/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c85f99a0dfc43ec97f31d1887d0bf15:7746516d0361659ca71d8a8457764f9e
+#EXTINF:-1 tvg-id="128" tvg-chno="128" ch-number="128" tvg-logo="https://poster.starhubgo.com/Linear_channels2/128_1920x1080_HTV.png",Colors
+https://ucdn.starhubgo.com/bpk-tv/COLORS/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b063c7afa634cd9b78852ccbb936fa2:5d5e5a474a56c88c63904446cdd3f123
+#EXTINF:-1 tvg-id="130" tvg-chno="130" ch-number="130" tvg-logo="https://poster.starhubgo.com/Linear_channels2/130_1920x1080_HTV.png",Zee Cinema
+https://ucdn.starhubgo.com/bpk-tv/ZeeCinema/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
-#EXTINF:-1 tvg-id="131" tvg-chno="131" ch-number="131" tvg-logo="https://poster.starhubgo.com/Linear_channels2/11_1920x1080_HTV.png",Sony Max
+#EXTINF:-1 tvg-id="131" tvg-chno="131" ch-number="131" tvg-logo="https://poster.starhubgo.com/Linear_channels2/131_1920x1080_HTV.png",Sony Max
 https://ucdn.starhubgo.com/bpk-tv/SonyMAX/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48fe2c0e229848eca6c540290d29be8d:449b22a83e46cf2f337bf71f5b2c3bd3
+#EXTINF:-1 tvg-id="132" tvg-chno="132" ch-number="132" tvg-logo="https://poster.starhubgo.com/Linear_channels2/132_1920x1080_HTV.png",Colors Tamil
+https://ucdn.starhubgo.com/bpk-tv/COLORSTamilHD/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5261f30f630483e83ca4d5239cbd4b6:24704616ade384abae6cebc7e62c6c80
+#EXTINF:-1 tvg-id="133" tvg-chno="133" ch-number="133" tvg-logo="https://poster.starhubgo.com/Linear_channels2/133_1920x1080_HTV.png",Sun TV
+https://ucdn.starhubgo.com/bpk-tv/SunTV/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed89bf895a514836bc3235042b1cba80:804a3b2bbc0e9b3ba4db96889349e81b
+#EXTINF:-1 tvg-id="134" tvg-chno="134" ch-number="134" tvg-logo="https://poster.starhubgo.com/Linear_channels2/134_1920x1080_HTV.png",Sun Music
+https://ucdn.starhubgo.com/bpk-tv/SunMusic/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c496a02d46f544579384af6834469cd7:c32bb1120a1e9acc6ffbbca374f0a899
+#EXTINF:-1 tvg-id="135" tvg-chno="135" ch-number="135" tvg-logo="https://poster.starhubgo.com/Linear_channels2/135_1920x1080_HTV.png",Vijay TV
+https://ucdn.starhubgo.com/bpk-tv/VijayTV/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c584a57a5edc44e1b9e58047019a6c95:14c86305c458b457a91affeffec3bcff
+#EXTINF:-1 tvg-id="137" tvg-chno="137" ch-number="137" tvg-logo="https://poster.starhubgo.com/Linear_channels2/137_1920x1080_HTV.png",Zee Thirai
+https://ucdn.starhubgo.com/bpk-tv/ZeeThirai/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47dde0640e614122a874b78be75ea286:e33fdb7f39f5322f14b82f4abdb192e2
+#EXTINF:-1 tvg-id="138" tvg-chno="138" ch-number="138" tvg-logo="https://poster.starhubgo.com/Linear_channels2/138_1920x1080_HTV.png",Zee Tamil
+https://ucdn.starhubgo.com/bpk-tv/ZeeTamil/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=32233523503442728319f13e66eabe1d:9176ac4e76ce299db6e5d86dd7efac88
+#EXTINF:-1 tvg-id="139" tvg-chno="139" ch-number="139" tvg-logo="https://poster.starhubgo.com/Linear_channels2/139_1920x1080_HTV.png",Asianet
+https://ucdn.starhubgo.com/bpk-tv/Asianet/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=edd61b87c5444c63a5f503e6f7cf3de3:e72283be311aa6c5175be86862d96eb3
+#EXTINF:-1 tvg-id="140" tvg-chno="140" ch-number="140" tvg-logo="https://poster.starhubgo.com/Linear_channels2/140_1920x1080_HTV.png",Asianet Movies
+https://ucdn.starhubgo.com/bpk-tv/AsianetMov/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
