@@ -367,7 +367,7 @@ https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh1/output/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413
+#KODIPROP:inputstream.adaptive.license_key=6e947fce17d642db9c1a0c45bf718011:dd096e4212597bb1948a78e12490a2ef
 #EXTINF:-1 tvg-id="252" tvg-chno="252" ch-number="252" tvg-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png",FIFA World Cup Channel 2
 https://ucdn.starhubgo.com/bpk-tv/FIFAWCCh2/output/manifest.mpd
 
