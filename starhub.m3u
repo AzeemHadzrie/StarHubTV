@@ -488,14 +488,14 @@ https://ucdn.starhubgo.com/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
 #EXTINF:-1 tvg-id="511" tvg-chno="511" ch-number="511" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
-https://ucdn.starhubgo.com/bpk-tv/AXNHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/AXNHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
 #EXTINF:-1 tvg-id="512" tvg-chno="512" ch-number="512" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png",Hits Movies
-https://ucdn.starhubgo.com/bpk-tv/HitsMoviesHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HitsMoviesHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -509,49 +509,49 @@ https://ucdn.starhubgo.com/bpk-tv/LifetimeHD/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c7890082be941669ddfb1096b41ee10:e29c76bd9d4be6433ea3a30af82d7de6
 #EXTINF:-1 tvg-id="519" tvg-chno="519" ch-number="519" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",Hits
-https://ucdn.starhubgo.com/bpk-tv/HITSHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HITSHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
 #EXTINF:-1 tvg-id="532" tvg-chno="532" ch-number="532" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax
-https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/AnimaxHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
 #EXTINF:-1 tvg-id="601" tvg-chno="601" ch-number="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
-https://ucdn.starhubgo.com/bpk-tv/HBOHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
 #EXTINF:-1 tvg-id="603" tvg-chno="603" ch-number="603" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://ucdn.starhubgo.com/bpk-tv/HBOSignatureHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOSigantureHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
 #EXTINF:-1 tvg-id="604" tvg-chno="604" ch-number="604" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://ucdn.starhubgo.com/bpk-tv/HBOFamilyHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOFamilyHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
 #EXTINF:-1 tvg-id="605" tvg-chno="605" ch-number="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://ucdn.starhubgo.com/bpk-tv/HBOHitsHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/HBOHitsHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
 #EXTINF:-1 tvg-id="611" tvg-chno="611" ch-number="611" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax
-https://ucdn.starhubgo.com/bpk-tv/CinemaxHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CinemaxHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -586,7 +586,7 @@ https://ucdn.starhubgo.com/bpk-tv/Euronews/output/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8411ae48e2d940089011964dd57a4a39:b20405dd1280c2c999d2e630a1f54187
 #EXTINF:-1 tvg-id="707" tvg-chno="707" ch-number="707" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC
-https://ucdn.starhubgo.com/bpk-tv/CNBCHD/output/manifest.mpd
+https://shtvgo-prod.gcdn.co/bpk-tv/CNBCHD/output/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
